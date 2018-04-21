@@ -1,5 +1,6 @@
 slkjjsfklsd
-#$%^&*(^$#@#$%^&
+
+<<<<<<< HEAD
 
 
 
@@ -15,3 +16,5 @@ hahahah
 
 
 rahul
+=======
+>>>>>>> parent of 69aba6d... seconed
